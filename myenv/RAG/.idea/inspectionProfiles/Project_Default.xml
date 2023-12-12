@@ -1,0 +1,76 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="63">
+            <item index="0" class="java.lang.String" itemvalue="opencv_python" />
+            <item index="1" class="java.lang.String" itemvalue="imageai" />
+            <item index="2" class="java.lang.String" itemvalue="shapely" />
+            <item index="3" class="java.lang.String" itemvalue="filterpy" />
+            <item index="4" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="5" class="java.lang.String" itemvalue="cython" />
+            <item index="6" class="java.lang.String" itemvalue="setuptools" />
+            <item index="7" class="java.lang.String" itemvalue="numpy" />
+            <item index="8" class="java.lang.String" itemvalue="requests" />
+            <item index="9" class="java.lang.String" itemvalue="lmdb" />
+            <item index="10" class="java.lang.String" itemvalue="dlib" />
+            <item index="11" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="12" class="java.lang.String" itemvalue="ntplib" />
+            <item index="13" class="java.lang.String" itemvalue="imutils" />
+            <item index="14" class="java.lang.String" itemvalue="keras" />
+            <item index="15" class="java.lang.String" itemvalue="xmltodict" />
+            <item index="16" class="java.lang.String" itemvalue="pyfakewebcam" />
+            <item index="17" class="java.lang.String" itemvalue="lap" />
+            <item index="18" class="java.lang.String" itemvalue="persist-queue" />
+            <item index="19" class="java.lang.String" itemvalue="tensorflow-cpu" />
+            <item index="20" class="java.lang.String" itemvalue="jsonschema" />
+            <item index="21" class="java.lang.String" itemvalue="confluent-kafka" />
+            <item index="22" class="java.lang.String" itemvalue="tifffile" />
+            <item index="23" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="24" class="java.lang.String" itemvalue="h5py" />
+            <item index="25" class="java.lang.String" itemvalue="requests_toolbelt" />
+            <item index="26" class="java.lang.String" itemvalue="psutil" />
+            <item index="27" class="java.lang.String" itemvalue="pyyaml" />
+            <item index="28" class="java.lang.String" itemvalue="geojson" />
+            <item index="29" class="java.lang.String" itemvalue="pysmbclient" />
+            <item index="30" class="java.lang.String" itemvalue="cmake" />
+            <item index="31" class="java.lang.String" itemvalue="pytz" />
+            <item index="32" class="java.lang.String" itemvalue="pycryptodome" />
+            <item index="33" class="java.lang.String" itemvalue="pysmb" />
+            <item index="34" class="java.lang.String" itemvalue="flask" />
+            <item index="35" class="java.lang.String" itemvalue="GPUtil" />
+            <item index="36" class="java.lang.String" itemvalue="setproctitle" />
+            <item index="37" class="java.lang.String" itemvalue="pycrypto" />
+            <item index="38" class="java.lang.String" itemvalue="jsmin" />
+            <item index="39" class="java.lang.String" itemvalue="PySimpleGUI" />
+            <item index="40" class="java.lang.String" itemvalue="scipy" />
+            <item index="41" class="java.lang.String" itemvalue="confluent_kafka" />
+            <item index="42" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="43" class="java.lang.String" itemvalue="scikit_learn" />
+            <item index="44" class="java.lang.String" itemvalue="flirpy" />
+            <item index="45" class="java.lang.String" itemvalue="mxnet" />
+            <item index="46" class="java.lang.String" itemvalue="EasyPySpin" />
+            <item index="47" class="java.lang.String" itemvalue="pycuda" />
+            <item index="48" class="java.lang.String" itemvalue="Keras_Preprocessing" />
+            <item index="49" class="java.lang.String" itemvalue="PySmbClient" />
+            <item index="50" class="java.lang.String" itemvalue="sqlitedict" />
+            <item index="51" class="java.lang.String" itemvalue="PyNvCodec" />
+            <item index="52" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="53" class="java.lang.String" itemvalue="python_dateutil" />
+            <item index="54" class="java.lang.String" itemvalue="pyudev" />
+            <item index="55" class="java.lang.String" itemvalue="Cython" />
+            <item index="56" class="java.lang.String" itemvalue="skimage" />
+            <item index="57" class="java.lang.String" itemvalue="Flask" />
+            <item index="58" class="java.lang.String" itemvalue="Pillow" />
+            <item index="59" class="java.lang.String" itemvalue="PySpin" />
+            <item index="60" class="java.lang.String" itemvalue="pyarmor" />
+            <item index="61" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="62" class="java.lang.String" itemvalue="docker" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

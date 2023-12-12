@@ -1,0 +1,12 @@
+# Ignore Lib directory
+Lib
+
+# Ignore Script directory
+
+
+# Ignore share directory
+share
+
+# Ignore specific files
+file1.txt
+file2.txt
