@@ -1,5 +1,15 @@
 # Product Recommendation Chatbot AI BOOTCAMP
 
+
+
+
+https://github.com/nadunchanna98/Product_Recommendation_Chatbot_AI_BOOTCAMP/assets/108536998/56898a3c-3763-4e62-ab87-ee3017845418
+
+
+
+
+
+
 ## Overview
 
 This project implements a chatbot using the LLAMA Index library, specifically the PaLM2 model, to retrieve responses based on user queries and PDF documents. It utilizes Hugging Face embeddings for document and query representation, indexing, and a vector store for efficient retrieval.
